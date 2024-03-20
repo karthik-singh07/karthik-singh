@@ -71,17 +71,19 @@ gtkwave abdul.vcd**
 
 **Output showing the AND Operation**
 
-![WhatsApp Image 2024-03-14 at 14 51 11_9e3af44e](https://github.com/Abdulbitm/Abdul/assets/160620896/c4f77171-0166-4815-8d50-7820613c9b3a)
+
+![Uploading WhatsApp Image 2024-03-20 at 17.56.58_4630a533.jpg…]()
 
 
 **Output showing the OR Operation**
-![WhatsApp Image 2024-03-14 at 14 51 11_64d882fe](https://github.com/Abdulbitm/Abdul/assets/160620896/45ae0f92-78ab-469a-bacd-5cdb2f7c5578)
 
-![WhatsApp Image 2024-03-14 at 14 51 11_c263287b](https://github.com/Abdulbitm/Abdul/assets/160620896/4d337702-67ac-4800-b7b6-b4bf4a7029f8)
+![WhatsApp Image 2024-03-20 at 15 22 41_c4d628f5](https://github.com/karthik-singh07/karthik-singh/assets/160622150/66ca22a0-5b48-4944-ae76-81cf8c6379a7)
+
 
 **Output showing the XOR Operation**
 
-![WhatsApp Image 2024-03-14 at 14 51 11_64d882fe](https://github.com/Abdulbitm/Abdul/assets/160620896/5584f6ad-a942-460b-a2d1-c44a1a68ca8e)
+
+![WhatsApp Image 2024-03-20 at 15 22 52_31f59607](https://github.com/karthik-singh07/karthik-singh/assets/160622150/d1242879-d1c8-4a36-9684-cd85e6212436)
 
 
 
