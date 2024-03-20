@@ -56,7 +56,9 @@ gtkwave singh.vcd**
 
 
 1. When instantiated module is selected we get all the registers and wires as shown in the below figure
-![312796529-d0ad6822-9ef1-4424-89f5-4e8ea783609a](https://github.com/karthik-singh07/karthik-singh/assets/160622150/ecc9f111-4d40-4cd1-b2ae-be729d117a17)
+
+
+![WhatsApp Image 2024-03-20 at 15 22 27_54459263](https://github.com/karthik-singh07/karthik-singh/assets/160622150/741b6877-a243-44bd-a458-295b7bdc38c8)
 
  
 2. Upon adding few signals the waves can be see as shown in the below figure
