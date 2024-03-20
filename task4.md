@@ -33,13 +33,14 @@ gtkwave singh.vcd**
 **-the code has been written in a systematic way and broken down into different parts**
 
 1. Instruction Fetch Stage
-   
-  ![312794257-6009d228-beac-411e-a2ef-72ce8d6fad82](https://github.com/karthik-singh07/karthik-singh/assets/160622150/e5683b7b-a1c9-4a16-bd38-00841959e98c)
+
+![image](https://github.com/karthik-singh07/karthik-singh/assets/160622150/3045f1ca-22b6-4d45-bdc0-8fdd2bc1c02a)
 
 
 2. Instruction Decode Stage
 
-   ![312794650-0bf49697-4e9e-42dc-adcf-eed7df8e957c](https://github.com/karthik-singh07/karthik-singh/assets/160622150/adce69fb-b56c-4303-b335-d5888358c111)
+
+  ![image](https://github.com/karthik-singh07/karthik-singh/assets/160622150/0f764c8e-8f88-4627-af3e-7de8ca1fbf35)
 
 3. Contents of registers and registers used
 ![312795303-32ae2162-efe4-448a-afe2-7e850278e547](https://github.com/karthik-singh07/karthik-singh/assets/160622150/387459e2-b125-48db-bf07-7b7470c81084)
