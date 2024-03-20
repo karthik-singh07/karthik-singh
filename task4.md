@@ -61,8 +61,8 @@ gtkwave singh.vcd**
 ![WhatsApp Image 2024-03-20 at 15 22 27_54459263](https://github.com/karthik-singh07/karthik-singh/assets/160622150/741b6877-a243-44bd-a458-295b7bdc38c8)
 
  
-2. Upon adding few signals the waves can be see as shown in the below figure
-![312797005-edd173c1-6e89-4164-b5cb-b77a12d78c9b](https://github.com/karthik-singh07/karthik-singh/assets/160622150/0cecc3d7-73b6-4503-92e6-03fc60b3fd5a)
+
+![image](https://github.com/karthik-singh07/karthik-singh/assets/160622150/64d422df-581b-46fa-b422-fd8853ae57c1)
 
 **Output showing the ADD Operation**
 
