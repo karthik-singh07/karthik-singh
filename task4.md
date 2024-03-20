@@ -43,10 +43,13 @@ gtkwave singh.vcd**
   ![image](https://github.com/karthik-singh07/karthik-singh/assets/160622150/0f764c8e-8f88-4627-af3e-7de8ca1fbf35)
 
 3. Contents of registers and registers used
-![312795303-32ae2162-efe4-448a-afe2-7e850278e547](https://github.com/karthik-singh07/karthik-singh/assets/160622150/387459e2-b125-48db-bf07-7b7470c81084)
+
+![image](https://github.com/karthik-singh07/karthik-singh/assets/160622150/c1838a83-d523-458c-9d7d-a9e34c8ccbb9)
 
 4. Instructions Hardcoded
-![312795521-23c86e3e-d2bd-4805-a8d3-2b1f6bde84c8](https://github.com/karthik-singh07/karthik-singh/assets/160622150/bf30cd68-0ddc-42a4-a60a-2ed626cd336b)
+
+![image](https://github.com/karthik-singh07/karthik-singh/assets/160622150/65c092de-1c43-4a87-b131-2ee9ddc2d4f4)
+
 
 
 **Lets move on to the execution Stage with Waveforms obtained for running the gtkwave abdul.vcd**
