@@ -20,7 +20,7 @@ iverilog singh.v singh_tb.v - to simulate the verilog code and to check the erro
 
 
 **after running the command
-gtkwave abdul.vcd**
+gtkwave singh.vcd**
 
 
 ![WhatsApp Image 2024-03-20 at 15 22 27_d9abe8f3](https://github.com/karthik-singh07/karthik-singh/assets/160622150/2d8c2e5e-9c49-466b-b9b3-dc1c1f9f2f95)
